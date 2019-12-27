@@ -4,7 +4,7 @@
 
 将控件进行序列化,在运行时动态加载序列配置
 
-[控件序列化办法][https://github.com/MEnigma/hot_widget]
+[控件序列化办法/github](https://github.com/MEnigma/hot_widget)
 
     优点:
         1.控件可定制
@@ -17,10 +17,10 @@
         3.不支持自定义类与方法
 
 ## 效果
-<img src="https://github.com/MEnigma/hot_widget/exampleImg/11577425019_.pic.jpg" width="375" alt="图1">
+<img src="https://github.com/MEnigma/hot_widget/blob/master/exampleImg/11577425019_.pic.jpg" width="375" alt="图1">
 
 
-<img src="https://github.com/MEnigma/hot_widget/exampleImg/21577425135_.pic.jpg" width="375" alt="图2">
+<img src="https://github.com/MEnigma/hot_widget/blob/master/exampleImg/21577425135_.pic.jpg" width="375" alt="图2">
 
     图1内容与图2内容都为加载配置动态生成的(包含跳转)
 
